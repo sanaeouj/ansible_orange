@@ -45,3 +45,4 @@ ansible-playbook -i inventory playbook-01.yml -u REMOTE_USER -K
 For more details, please refer to the tutorial series: [How To Write Ansible Playbooks](https://www.digitalocean.com/community/tutorial_series/how-to-write-ansible-playbooks).
 # ansible_orange
 # ansible_orange
+# ansible_orange
